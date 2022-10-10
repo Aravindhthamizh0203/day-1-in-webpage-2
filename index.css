@@ -1,0 +1,17 @@
+body{
+    text-decoration-color: black;
+    background-color: lightcyan;
+}
+.biodata{
+    color: white;
+    background-color: lightgrey; 
+    text-align: center;
+}
+.smallbox{
+    color:black;
+    text-align: center;
+    
+}
+.icon{
+    color: black;
+}
